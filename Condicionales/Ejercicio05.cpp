@@ -2,6 +2,7 @@
 #include<ctype.h>
 
 using namespace std;
+//el maestro lo hizo con un switch
 
 int main (){
 	

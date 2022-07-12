@@ -1,6 +1,8 @@
 #include<iostream>
 #include<math.h>
 using namespace std;
+
+//AVISO ESTE EJERCICIO ESTA INCORRECTO
 int main(){
 	
 	int cat1,cat2;
@@ -11,13 +13,10 @@ int main(){
 	//mi solucion estaba erronea tenia que agregar una libreria nueba que es math.h
 	hipo=sqrt((cat1*cat1)+(cat2*cat2));
 		
-	cout<<"\nLa Hipotenusa es la rais cuadrada de " <<hipo;
+//	cout<<"\nLa Hipotenusa es la rais cuadrada de " <<hipo;
 	
 
 	cout <<"\nLa Hipotenusa es " <<hipo;
-	
-	
-	
 	
 	
 return 0;	

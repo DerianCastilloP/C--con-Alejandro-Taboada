@@ -7,7 +7,7 @@ int main(){
 	int N,S=0,F=1,F1=0;
 	cout<<"Ingrese el numeros de valores que quiere Vicualizar " <<endl;
 	cin>>N;
-	cout<<"\n" <<"Serie Fibonacci "<<endl;
+	cout<<"\n\n" <<"Serie Fibonacci "<<endl;
 	
 	for(int i=1;i<N;i++){
 		

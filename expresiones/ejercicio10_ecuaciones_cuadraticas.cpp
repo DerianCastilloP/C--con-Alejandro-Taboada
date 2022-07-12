@@ -3,6 +3,7 @@
 #include <math.h>
 
 using namespace std;
+//Ojo el codigo esta similar a el del profe pero los datos finales aveces no los muestra
 
 int main(){
 	
