@@ -1,0 +1,6 @@
+/*
+Cuando ingresamos valores no esperados 
+la memorio del programa se llena y 
+finaliza en la ejecucion
+
+*/
