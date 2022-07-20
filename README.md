@@ -1,6 +1,6 @@
 # C--con-Alejandro-Taboada
 
-Es son los Ejercicios que he hecho a lo largo del Curso (puede que no sean iguales a los realizados por Alejandro pero tendrán los resultados mínimos esperados)
+Estos son los Ejercicios que he hecho a lo largo del Curso (puede que no sean iguales a los realizados por Alejandro pero tendrán los resultados mínimos esperados)
 Los Ejercicios hacen lo que el maestro pide pero tienen funcanlidades que nos son iguales a los ejercicios resueltos por El ya que estan ellos primero y despues 
 reviso los resueltos para verificar que funcione como se espera.
 
